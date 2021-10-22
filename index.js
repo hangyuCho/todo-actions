@@ -1,5 +1,2 @@
-// TODO Come up with a more imaginative greeting
-//  Everyone uses hello world and it's boring.
-// user projects: alstr/Test User Project/To Do
-//  org projects: alstrorg/Test Org Project/To Do
+// TODO 깃 액션을 사용해서 todo 코멘트를 issue에 적용 해보았어용ㅎㅎ
 console.log("hoge33333");
