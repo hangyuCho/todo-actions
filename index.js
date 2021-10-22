@@ -14,3 +14,6 @@ console.log("hello world!");
 // They can be mocked by creating a mock version using `__mocks__` folder.
 // https://jestjs.io/docs/en/manual-mocks
 console.log("hoge!!!!!!!!!!!");
+
+// TODO [#1]: implement this thing
+console.log("hoge33333");
